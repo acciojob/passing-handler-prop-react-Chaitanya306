@@ -15,4 +15,7 @@ function Selection(props) {
 
 export default Selection
 
+<<<<<<< HEAD
 
+=======
+>>>>>>> f6a3245d5cd255190ff10ad19c782cd63cd469a3
